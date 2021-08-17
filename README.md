@@ -1,10 +1,9 @@
 
-The yolox hand detection
+## The yolox hand detection  
 
 This is a sample ncnn android project, it depends on ncnn library and opencv
 
 https://github.com/Tencent/ncnn
-
 https://github.com/nihui/opencv-mobile
 
 
@@ -24,15 +23,9 @@ https://github.com/nihui/opencv-mobile
 ### step3
 * Open this project with Android Studio, build it and enjoy!
 
-## some notes
-* Android ndk camera is used for best efficiency
-* Crash may happen on very old devices for lacking HAL3 camera interface
-* All models are manually modified to accept dynamic input shape
-* Most small models run slower on GPU than on CPU, this is common
-* FPS may be lower in dark environment because of longer camera exposure time
 
 ## screenshot
-![](screenshot.jpg)
+![](screenshot.jpg)  
 
 ## reference  
 https://github.com/nihui/ncnn-android-nanodet  
