@@ -25,7 +25,7 @@ https://github.com/nihui/opencv-mobile
 
 
 ## screenshot
-![](screenshot.png)  
+![](result.gif)  
 
 ## reference  
 https://github.com/nihui/ncnn-android-nanodet  
